@@ -1,0 +1,20 @@
+.divquangcao {
+
+margin : 0px 0px;
+padding:20px 0;
+
+
+}
+.divquangcao > .col-sm-12 > img{
+
+	height: px;
+	width: 0px;
+	text-align: center;
+}
+.tittlequangcao {
+border-color: green;
+padding: px;
+text-align: center;
+border-radius: 10px;		
+
+}

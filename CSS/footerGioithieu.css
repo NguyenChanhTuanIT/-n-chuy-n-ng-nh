@@ -1,0 +1,36 @@
+.alert {
+	margin-top: 1px;
+	padding-top: 1px;
+	
+	padding-bottom: 10px;
+}
+.ftulgt {
+
+	list-style-type: none;
+}
+.ftulgt li {
+ font-size: 17px;
+ padding-bottom: 10px;
+}
+.comm{
+
+}
+.formm {
+	margin-top: 4%;
+	margin-left: 5%;
+}
+.formm > input[type=text]{
+
+
+	margin: 5px 10px;
+}
+.formm > textarea{
+
+
+	margin: 10px 0px;
+}
+.tieudegopy {
+
+margin:  15px 0px;
+
+}
